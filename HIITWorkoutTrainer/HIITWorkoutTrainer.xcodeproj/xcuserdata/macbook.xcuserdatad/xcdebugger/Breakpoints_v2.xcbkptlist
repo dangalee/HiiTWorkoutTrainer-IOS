@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7EB99EE0-DCC6-4B54-989A-330095944CAB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D692C1A8-C825-4D8D-AE1A-963A15504670"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HIITWorkoutTrainer/DataEntryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "DataEntryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D692C1A8-C825-4D8D-AE1A-963A15504670 - c336429c8f1c992a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HIITWorkoutTrainer.DataEntryViewController"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "D692C1A8-C825-4D8D-AE1A-963A15504670 - 56c0937a4493b16b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HIITWorkoutTrainer.DataEntryViewController&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "280069C4-955F-4844-ABB7-42296471980A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HIITWorkoutTrainer/DataEntryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD143391-8551-4925-B082-6FB85FA4D074"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HIITWorkoutTrainer/DataEntryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "DataEntryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FD143391-8551-4925-B082-6FB85FA4D074 - 74ab7e83658cc114"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.getter : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "FD143391-8551-4925-B082-6FB85FA4D074 - c0c96b8739ddfd00"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.setter : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "FD143391-8551-4925-B082-6FB85FA4D074 - 788cba4a67b20213"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.modify : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FD143391-8551-4925-B082-6FB85FA4D074 - 179db2471a6225f2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.modify : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "FD143391-8551-4925-B082-6FB85FA4D074 - c336429c8f1c992a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HIITWorkoutTrainer.DataEntryViewController"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "FD143391-8551-4925-B082-6FB85FA4D074 - 56c0937a4493b16b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HIITWorkoutTrainer.DataEntryViewController&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HIITWorkoutTrainer/DataEntryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "DataEntryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618 - 74ab7e83658cc114"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.getter : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618 - c0c96b8739ddfd00"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.setter : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618 - 788cba4a67b20213"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.modify : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618 - 179db2471a6225f2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.appDelegate.modify : Swift.Optional&lt;HIITWorkoutTrainer.AppDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618 - c336429c8f1c992a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HIITWorkoutTrainer.DataEntryViewController"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "D8B99C58-B359-4E1B-84F8-EADD19024618 - 56c0937a4493b16b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITWorkoutTrainer.DataEntryViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HIITWorkoutTrainer.DataEntryViewController&gt;"
+                  moduleName = "HIITWorkoutTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/Crimson/assignments/assignment02/HIITWorkoutTrainer/HIITWorkoutTrainer/DataEntryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
